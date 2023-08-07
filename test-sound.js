@@ -1,7 +1,7 @@
 let song;
 
 function setup() {
-  song = loadSound('assets/lucky_dragons_-_power_melody.mp3');
+  song = loadSound('Spirit of Fire.mp3');
   createCanvas(720, 200);
   background(255, 0, 0);
 }
