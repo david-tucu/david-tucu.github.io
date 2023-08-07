@@ -1,7 +1,7 @@
 let song;
 
 function setup() {
-  song = loadSound('Spirit of Fire.mp3');
+  song = loadSound('archivos/musica.mp3');
   createCanvas(720, 200);
   background(255, 0, 0);
 }
